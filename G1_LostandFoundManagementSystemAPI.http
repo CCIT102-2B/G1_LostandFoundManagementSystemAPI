@@ -1,0 +1,6 @@
+@G1_LostandFoundManagementSystemAPI_HostAddress = http://localhost:5269
+
+GET {{G1_LostandFoundManagementSystemAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
