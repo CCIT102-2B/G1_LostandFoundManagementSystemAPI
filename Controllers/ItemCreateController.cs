@@ -1,4 +1,3 @@
-
 using API.Data;
 using API.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -16,10 +15,8 @@ namespace API.Controllers
             _context = context;
         }
 
-        // POST: /api/items
         [HttpPost]
-        public async Task<IActionResult> CreateItem(
-            [FromBody] CreateItemModel model)
+        public async Task<IActionResult> CreateItem([FromBody] CreateItemModel model)
         {
             var item = new Item
             {
