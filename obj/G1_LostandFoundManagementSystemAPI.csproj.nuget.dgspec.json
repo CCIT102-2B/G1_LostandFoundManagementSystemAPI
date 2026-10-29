@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ccit102 finals\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj": {}
+    "C:\\Users\\ACER\\Downloads\\put\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj": {}
   },
   "projects": {
-    "D:\\ccit102 finals\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj": {
+    "C:\\Users\\ACER\\Downloads\\put\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ccit102 finals\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Downloads\\put\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj",
         "projectName": "G1_LostandFoundManagementSystemAPI",
-        "projectPath": "D:\\ccit102 finals\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj",
-        "packagesPath": "C:\\Users\\Predator\\.nuget\\packages\\",
-        "outputPath": "D:\\ccit102 finals\\G1_LostandFoundManagementSystemAPI\\obj\\",
+        "projectPath": "C:\\Users\\ACER\\Downloads\\put\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACER\\Downloads\\put\\G1_LostandFoundManagementSystemAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Predator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -80,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
