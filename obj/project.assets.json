@@ -1304,11 +1304,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\Downloads\\put\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Documents\\Lost and Found Management System\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj",
       "projectName": "G1_LostandFoundManagementSystemAPI",
-      "projectPath": "C:\\Users\\ACER\\Downloads\\put\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj",
+      "projectPath": "C:\\Users\\ACER\\Documents\\Lost and Found Management System\\G1_LostandFoundManagementSystemAPI\\G1_LostandFoundManagementSystemAPI.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\Downloads\\put\\G1_LostandFoundManagementSystemAPI\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Documents\\Lost and Found Management System\\G1_LostandFoundManagementSystemAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
