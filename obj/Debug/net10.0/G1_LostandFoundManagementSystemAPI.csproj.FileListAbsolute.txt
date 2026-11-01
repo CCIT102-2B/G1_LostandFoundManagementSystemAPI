@@ -1,197 +1,11 @@
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\appsettings.Development.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\appsettings.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.staticwebassets.endpoints.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.exe
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.deps.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.runtimeconfig.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.pdb
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Azure.Core.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Azure.Identity.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Identity.Client.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.ClientModel.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Drawing.Common.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Memory.Data.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Runtime.Caching.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Security.Permissions.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Windows.Extensions.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.csproj.AssemblyReference.cache
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.AssemblyInfoInputs.cache
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.AssemblyInfo.cs
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.csproj.CoreCompileInputs.cache
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\scopedcss\bundle\G1_LostandFoundManagementSystemAPI.styles.css
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\staticwebassets.build.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\staticwebassets.development.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_Losta.C5B28AD4.Up2Date
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\refint\G1_LostandFoundManagementSystemAPI.dll
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.pdb
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.genruntimeconfig.cache
-C:\Users\ACER\Documents\Group_1\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\ref\G1_LostandFoundManagementSystemAPI.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.csproj.AssemblyReference.cache
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.AssemblyInfoInputs.cache
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.AssemblyInfo.cs
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.csproj.CoreCompileInputs.cache
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.MvcApplicationPartsAssemblyInfo.cs
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.sourcelink.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\refint\G1_LostandFoundManagementSystemAPI.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.pdb
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\appsettings.Development.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\appsettings.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.staticwebassets.endpoints.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.exe
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.deps.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.runtimeconfig.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.pdb
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Azure.Core.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Azure.Identity.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Identity.Client.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.ClientModel.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Drawing.Common.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Memory.Data.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Runtime.Caching.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Security.Permissions.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Windows.Extensions.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\scopedcss\bundle\G1_LostandFoundManagementSystemAPI.styles.css
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\staticwebassets.build.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\staticwebassets.development.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\swae.build.ex.cache
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_Losta.C5B28AD4.Up2Date
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.genruntimeconfig.cache
-D:\ccit102 finals\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\ref\G1_LostandFoundManagementSystemAPI.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\appsettings.Development.json
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\appsettings.json
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.staticwebassets.endpoints.json
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.exe
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.deps.json
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.runtimeconfig.json
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.pdb
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Azure.Core.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Azure.Identity.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Identity.Client.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.ClientModel.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Drawing.Common.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Memory.Data.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Runtime.Caching.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Security.Permissions.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Windows.Extensions.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ACER\AppData\Local\Temp\ProgramErrorCheck\appsettings.Development.json
+C:\Users\ACER\AppData\Local\Temp\ProgramErrorCheck\appsettings.json
+C:\Users\ACER\AppData\Local\Temp\ProgramErrorCheck\G1_LostandFoundManagementSystemAPI.staticwebassets.endpoints.json
+C:\Users\ACER\AppData\Local\Temp\ProgramErrorCheck\G1_LostandFoundManagementSystemAPI.exe
+C:\Users\ACER\AppData\Local\Temp\ProgramErrorCheck\G1_LostandFoundManagementSystemAPI.deps.json
+C:\Users\ACER\AppData\Local\Temp\ProgramErrorCheck\G1_LostandFoundManagementSystemAPI.runtimeconfig.json
+C:\Users\ACER\AppData\Local\Temp\ProgramErrorCheck\G1_LostandFoundManagementSystemAPI.dll
+C:\Users\ACER\AppData\Local\Temp\ProgramErrorCheck\G1_LostandFoundManagementSystemAPI.pdb
 C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.csproj.AssemblyReference.cache
 C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
 C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
@@ -216,3 +30,62 @@ C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManageme
 C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.pdb
 C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\G1_LostandFoundManagementSystemAPI.genruntimeconfig.cache
 C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\obj\Debug\net10.0\ref\G1_LostandFoundManagementSystemAPI.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\appsettings.json
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.staticwebassets.endpoints.json
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.exe
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.deps.json
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.runtimeconfig.json
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\G1_LostandFoundManagementSystemAPI.pdb
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+C:\Users\ACER\Documents\Lost and Found Management System\G1_LostandFoundManagementSystemAPI\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
