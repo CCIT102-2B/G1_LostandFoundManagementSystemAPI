@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("G1_LostandFoundManagementSystemAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c9e06658f64208898f8db6d12a2234891ab2d1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4b3825c8c083ce3787ce380ad0a6f92633ca7db")]
 [assembly: System.Reflection.AssemblyProductAttribute("G1_LostandFoundManagementSystemAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("G1_LostandFoundManagementSystemAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
